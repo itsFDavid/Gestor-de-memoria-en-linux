@@ -7,7 +7,7 @@ Este proyecto permite ver el el uso de la memoria en linux y gestionarla asi com
 ## Tecnologías Utilizadas
 
 - **Python**
---**Matplot**
+- **Matplot**
 
 ## Instalación
 
